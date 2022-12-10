@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T10:05:19.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="645r3MRdoynYFFOWN9wS" type="github"><diagram id="HG5eryH1sxmeXnZ_krCR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-10T10:36:17.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ePdb-mpSVufEU7j7ON1D" type="github">
+  <diagram id="bp_Yu-92QXrqXvInUPx2" name="第 1 页">
+    <mxGraphModel dx="1865" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#007FFF;" edge="1" parent="1" source="BSl-i6QfBSU9VubPGwKR-1" target="BSl-i6QfBSU9VubPGwKR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-1" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;&amp;nbsp;Planning algorithms based on lookahead search have achieved remarkable successes in artificial intelligence.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#007FFF;" edge="1" parent="1" source="BSl-i6QfBSU9VubPGwKR-2" target="BSl-i6QfBSU9VubPGwKR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#007FFF;" edge="1" parent="1" source="BSl-i6QfBSU9VubPGwKR-2" target="BSl-i6QfBSU9VubPGwKR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-2" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;&amp;nbsp;However, these planning algorithms all rely on knowledge of the environment’s dynamics, such as the rules of the game or an accurate simulator, preventing their direct application to real-world domains.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="170" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#007FFF;" edge="1" parent="1" source="BSl-i6QfBSU9VubPGwKR-4" target="BSl-i6QfBSU9VubPGwKR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#007FFF;" edge="1" parent="1" source="BSl-i6QfBSU9VubPGwKR-4" target="BSl-i6QfBSU9VubPGwKR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-4" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;&amp;nbsp;Model-based RL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-5" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;Model-free RL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-8" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;&amp;nbsp;MuZero builds upon AlphaZero’s powerful search and search-based policy iteration algorithms, but incorporates a learned model into the training procedure.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="360" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSl-i6QfBSU9VubPGwKR-9" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#007fff&quot;&gt;&amp;nbsp;MuZero also extends AlphaZero to a broader set of environments including single agent domains and non-zero rewards at intermediate time-steps.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="415" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
