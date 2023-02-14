@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T14:53:03.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KERfWZUnp00VNdoyCLVy" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T15:30:45.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nOvPqE15et3X9w_ZCnTl" version="20.8.19" type="github">
   <diagram id="NnDz-e84LedhrpHTF5lW" name="第 1 页">
     <mxGraphModel dx="2967" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1008,7 +1008,7 @@
         <mxCell id="09geVpzrAzBKYXrIIMN1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=24;" edge="1" parent="1" source="09geVpzrAzBKYXrIIMN1-30" target="09geVpzrAzBKYXrIIMN1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="09geVpzrAzBKYXrIIMN1-30" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;Linear&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;in channel: &lt;span style=&quot;font-weight: normal;&quot;&gt;C&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;out channel&lt;span style=&quot;border-color: var(--border-color); font-weight: normal;&quot;&gt;: h*D&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="09geVpzrAzBKYXrIIMN1-30" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;Linear&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;in channel: &lt;span style=&quot;font-weight: normal;&quot;&gt;C&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;out channel&lt;span style=&quot;border-color: var(--border-color); font-weight: normal;&quot;&gt;: h*D*3&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="72" y="5001" width="248" height="141" as="geometry" />
         </mxCell>
         <mxCell id="09geVpzrAzBKYXrIIMN1-31" value="&lt;b&gt;Attention&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=24;" vertex="1" parent="1">
@@ -1023,8 +1023,8 @@
         <mxCell id="09geVpzrAzBKYXrIIMN1-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;mask&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-105" y="5163" width="102" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="09geVpzrAzBKYXrIIMN1-38" value="&lt;font color=&quot;#6600cc&quot;&gt;参数量：C*(hD+1)&lt;br&gt;计算量：2*B*N*hD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="86.5" y="4896" width="219" height="107" as="geometry" />
+        <mxCell id="09geVpzrAzBKYXrIIMN1-38" value="&lt;font color=&quot;#6600cc&quot;&gt;参数量：C*(3h*D+1)&lt;br&gt;计算量：B*N*C*3h*D&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="74.75" y="4897" width="274.5" height="107" as="geometry" />
         </mxCell>
         <mxCell id="09geVpzrAzBKYXrIIMN1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.044;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=18;fontColor=#6600CC;" edge="1" parent="1" source="09geVpzrAzBKYXrIIMN1-39" target="09geVpzrAzBKYXrIIMN1-48">
           <mxGeometry relative="1" as="geometry" />
@@ -1067,8 +1067,8 @@
         <mxCell id="09geVpzrAzBKYXrIIMN1-65" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;SoftMax&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=4;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="921.87" y="5152" width="156.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="09geVpzrAzBKYXrIIMN1-66" value="&lt;font color=&quot;#6600cc&quot;&gt;计算量：B*N*hD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="723" y="4894" width="219" height="107" as="geometry" />
+        <mxCell id="09geVpzrAzBKYXrIIMN1-66" value="&lt;font color=&quot;#6600cc&quot;&gt;计算量：B*N*h*D&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="714" y="4897" width="219" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
