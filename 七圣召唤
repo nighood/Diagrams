@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T08:54:01.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.8" etag="Ca4eFt3gwsOatISaPDfd" type="github"><diagram name="第 1 页" id="4NnBb-2dE06dQrUgJd6q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T10:03:17.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DxRYKICDMt7TfdfR-OMP" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="4NnBb-2dE06dQrUgJd6q">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-1" target="0AitHPrl71WmDQr-Ak9b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-1" value="选择 1 张可用手牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-3" target="0AitHPrl71WmDQr-Ak9b-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-5" value="快速行动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0AitHPrl71WmDQr-Ak9b-4">
+          <mxGeometry x="-0.2529" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-3" target="0AitHPrl71WmDQr-Ak9b-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-23" value="战斗行动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0AitHPrl71WmDQr-Ak9b-22">
+          <mxGeometry x="-0.2424" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-3" value="行动类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-6" target="0AitHPrl71WmDQr-Ak9b-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-13" value="打出手牌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0AitHPrl71WmDQr-Ak9b-11">
+          <mxGeometry x="-0.2971" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-6" target="0AitHPrl71WmDQr-Ak9b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-16" value="元素调和" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0AitHPrl71WmDQr-Ak9b-12">
+          <mxGeometry x="0.1257" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-6" value="使用方式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="400" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-8" target="0AitHPrl71WmDQr-Ak9b-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-8" value="(opt)选择使用对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-9" target="0AitHPrl71WmDQr-Ak9b-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="680" />
+              <mxPoint x="70" y="680" />
+              <mxPoint x="70" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-9" value="选择调和的骰子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-17" target="0AitHPrl71WmDQr-Ak9b-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="680" />
+              <mxPoint x="70" y="680" />
+              <mxPoint x="70" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-17" value="(opt)选择消耗的骰子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-24" target="0AitHPrl71WmDQr-Ak9b-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-24" target="0AitHPrl71WmDQr-Ak9b-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0AitHPrl71WmDQr-Ak9b-24" target="0AitHPrl71WmDQr-Ak9b-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-24" value="战斗行动类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="300" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-25" value="使用技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-26" value="切换角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AitHPrl71WmDQr-Ak9b-27" value="行动牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="904" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
