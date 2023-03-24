@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T16:02:35.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6acptFwEhEPVcawSY7zW" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T03:51:51.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yopuENPzeuDSmmM9hun6" version="21.0.10" type="github">
   <diagram name="第 1 页" id="4NnBb-2dE06dQrUgJd6q">
-    <mxGraphModel dx="1235" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,55 +110,55 @@
         <mxCell id="H7J2QIEWB0OTEc2siICi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-1" target="H7J2QIEWB0OTEc2siICi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-1" value="打出卡牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-1" value="打出卡牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1320" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-3">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-4">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-5">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-6">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-2" target="H7J2QIEWB0OTEc2siICi-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-2" value="选择动作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-2" value="选择动作类型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1705" y="190" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H7J2QIEWB0OTEc2siICi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-3" target="H7J2QIEWB0OTEc2siICi-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-3" value="元素调和" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-3" value="元素调和" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7J2QIEWB0OTEc2siICi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-4" target="H7J2QIEWB0OTEc2siICi-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-4" value="使用技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-4" value="使用技能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1720" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H7J2QIEWB0OTEc2siICi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H7J2QIEWB0OTEc2siICi-5" target="H7J2QIEWB0OTEc2siICi-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-5" value="切换角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-5" value="切换角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1920" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-6" value="结束回合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-6" value="结束回合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-13" value="选择一张手牌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-13" value="选择一张手牌" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1420" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-14" value="选择一个技能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-14" value="选择一个技能" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1720" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7J2QIEWB0OTEc2siICi-15" value="选择要切换的角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H7J2QIEWB0OTEc2siICi-15" value="选择要切换的角色" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1920" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
