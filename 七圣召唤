@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T07:57:07.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eq9-KRWYwe_zCJPnaEND" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:24:56.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2QdHKrhCtHNbtq9sGp5H" version="21.7.2" type="github">
   <diagram name="第 1 页" id="4NnBb-2dE06dQrUgJd6q">
-    <mxGraphModel dx="5839" dy="1887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3506" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-76" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-2315" y="1639" width="767" height="248" as="geometry" />
+        </mxCell>
         <mxCell id="0AitHPrl71WmDQr-Ak9b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0AitHPrl71WmDQr-Ak9b-1" target="0AitHPrl71WmDQr-Ak9b-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -286,6 +289,9 @@
         <mxCell id="g2ilFcOMhso8xsWLV5oA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-33" target="g2ilFcOMhso8xsWLV5oA-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-33" target="g2ilFcOMhso8xsWLV5oA-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g2ilFcOMhso8xsWLV5oA-33" value="encoded_obs[&#39;card_obs&#39;]&lt;br&gt;&lt;div&gt;(B, M, N)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1662" y="2009" width="120" height="60" as="geometry" />
         </mxCell>
@@ -395,6 +401,30 @@
         </mxCell>
         <mxCell id="g2ilFcOMhso8xsWLV5oA-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;div style=&quot;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;UAY7dTXs6oZ8zCx17dbcWRT0ndh&quot;&gt;&lt;div class=&quot;old-record-id-VqO9dPBlFomArNxGrkTc7Agyn4d&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;obs_embedding&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;UAY7dTXs6oZ8zCx17dbcWRT0ndh&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot; class=&quot;old-record-id-RbDZduyaeo7dqCxFQGxcw80hn6s&quot;&gt;(B, embedding_num&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-833.5" y="2808" width="246" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-66" target="g2ilFcOMhso8xsWLV5oA-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-66" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;0,&lt;br&gt;1,&lt;br&gt;2,&lt;br&gt;3,&lt;br&gt;4,&lt;br&gt;4,&lt;br&gt;3,&lt;br&gt;2,&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2295" y="1687" width="58" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-67" value="&lt;b&gt;action_type&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2296" y="1642" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-68" value="&lt;b&gt;action_type_name&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2098" y="1642" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-69" target="g2ilFcOMhso8xsWLV5oA-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-69" value="play_card&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;elemental_harmony&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;use_skill&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;change_character&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;terminate_turn&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;terminate_turn&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;change_character&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;use_skill&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2183" y="1687" width="230" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-70" value="&lt;b&gt;拼接 encoded_part_obs&lt;br&gt;就出现不了 (B, M, N)了&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1812.75" y="1642" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-71" value="&lt;b&gt;encoded_obs[&#39;play_card&#39;]&lt;/b&gt; shape(30, 256)&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;none&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;encoded_obs[&#39;use_skill&#39;]&lt;/b&gt; shape(4, 256)&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;encoded_obs[&#39;change_character&#39;]&lt;/b&gt; shape(6, 256)&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;none&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;none&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;encoded_obs[&#39;change_character&#39;]&lt;/b&gt; shape(6, 256)&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;&lt;b&gt;encoded_obs[&#39;use_skill&#39;]&lt;/b&gt; shape(4, 256)&lt;b style=&quot;font-size: 16px;&quot;&gt;,&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1895.5" y="1687" width="324.5" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
