@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T11:55:09.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="54pipPzyv5i0Y8nIqj4b" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T13:13:07.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-54EPfLU0GkZu1y7pMnp" version="21.7.2" type="github">
   <diagram name="第 1 页" id="4NnBb-2dE06dQrUgJd6q">
-    <mxGraphModel dx="3294" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3444" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,11 +514,23 @@
         <mxCell id="g2ilFcOMhso8xsWLV5oA-99" value="是否为 Train mode" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1537" y="3453" width="264" height="121" as="geometry" />
         </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-100" target="g2ilFcOMhso8xsWLV5oA-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g2ilFcOMhso8xsWLV5oA-100" value="直接将上述三个action_arg的logit进行输出&lt;br&gt;action_arg[xxx]等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1178" y="3352" width="290" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g2ilFcOMhso8xsWLV5oA-101" target="g2ilFcOMhso8xsWLV5oA-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g2ilFcOMhso8xsWLV5oA-101" value="根据采样/给定的action_type shape为(8,) 对上述三个输出进行mask，只取相应动作的arg，若不为上述三个动作，则为 None" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1178" y="3554" width="290" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-109" value="action_arg为dict&lt;br&gt;action_arg[&#39;play_card&#39;]&lt;br&gt;action_arg[&#39;use_skill&#39;]&lt;br&gt;action_arg[&#39;change_character&#39;]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="3334" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g2ilFcOMhso8xsWLV5oA-111" value="action_arg为list&lt;br&gt;[None,&lt;br&gt;tensor shape(30,),&lt;br&gt;tensor shape(4,),&lt;br&gt;None,&lt;br&gt;...&lt;br&gt;]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="3535" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
