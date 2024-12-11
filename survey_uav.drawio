@@ -250,65 +250,77 @@
         <mxCell id="-tQFiQ8kx9aQ_QGWf1GP-23" value="Resource allocation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1052.82" y="-465" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Full Coverage of Small Areas&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="-445" width="280" height="205" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-19" value="&lt;b style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Long-Term Object-Level Monitoring&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-385" width="280" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-650" y="-230" as="sourcePoint" />
-            <mxPoint x="-60" y="-230" as="targetPoint" />
+            <mxPoint x="40" y="-170" as="sourcePoint" />
+            <mxPoint x="630" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-650" y="-230" as="sourcePoint" />
-            <mxPoint x="-650" y="-720" as="targetPoint" />
+            <mxPoint x="40" y="-170" as="sourcePoint" />
+            <mxPoint x="40" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Spatial&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-418.75" y="-180" width="60" height="30" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Spatial&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="-120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Temporal&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="-500" width="60" height="30" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Temporal&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;coverage&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-131.8699999999999" y="-210" width="60" height="30" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;coverage&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="558.1300000000001" y="-150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;efficiency&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="-695" width="60" height="30" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;efficiency&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-635" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-8" value="&lt;b&gt;Persistent Deployment of Wide-Area&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-343.44000000000005" y="-445" width="280" height="205" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-26" value="&lt;b&gt;Distributed Coverage for Environmental Monitoring&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="346.55999999999995" y="-385" width="280" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Adaptive Sensing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-638.75" y="-680" width="280" height="205" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Rapid Response for Dynamic Target Tracking&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="-620" width="280" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Wide-Area Sensing in Disasters&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-343.44000000000005" y="-680" width="280" height="205" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-28" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Dynamic Area Perception for Emergency Response&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="346.55999999999995" y="-620" width="280" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-11" value="Maximize visibility angle for full coverage of 3D surfaces" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="-370" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-29" value="Coverage uniformity" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="358.1300000000001" y="-320" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-12" value="high-resolution maps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="-310" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-30" value="Energy-efficient collaboration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="358.13000000000017" y="-275" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-13" value="Optimization of Coverage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-331.8699999999999" y="-370" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-31" value="Reactive path planning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="61.879999999999896" y="-560" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-14" value="Best angle to capture target features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-333.4399999999998" y="-310" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-32" value="Multi-UAV coordination" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="61.87999999999989" y="-511" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-15" value="Optimization of Efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630.6300000000001" y="-610" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-33" value="Real-time path planning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999999" y="-557" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-16" value="Real-Time Optimization under Dynamic Conditions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-629.3800000000001" y="-550" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-34" value="Dynamic task allocation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999999" y="-511" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-17" value="Autonomous Exploration in Unknown Environments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-331.8700000000001" y="-610" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-35" value="Endurance and Mission Persistence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60.629999999999995" y="-320" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AHgwAtBn9opc_SdNSLN8-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330.6200000000001" y="-550" width="260" height="35" as="geometry" />
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-36" value="Path Stability" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="60.629999999999995" y="-275" width="260" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-37" value="Data Reliability" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="61.879999999999995" y="-229" width="260" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-38" value="System robustness" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="356.5600000000002" y="-229" width="260" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-39" value="Real-time computational efficiency" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="61.87999999999988" y="-466" width="260" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AHgwAtBn9opc_SdNSLN8-40" value="Adaptation to environmental changes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999999" y="-466" width="260" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
