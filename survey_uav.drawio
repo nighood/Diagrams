@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="lKYJNV1JYSL0fNV-0X3W">
-    <mxGraphModel dx="2927" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,19 +323,19 @@
           <mxGeometry x="359.9999999999999" y="-466" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="897.5" y="760" width="230" height="310" as="geometry" />
+          <mxGeometry x="1001" y="1470" width="180" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="hF1sTlUu9HQCptNYTRcM-2" value="Concept of Large-Scale UAV Swarms&lt;font color=&quot;#ff0000&quot;&gt;(§3.1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="910" y="780" width="205" height="60" as="geometry" />
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-2" value="Concept of&amp;nbsp;&lt;div&gt;Large-Scale UAV Swarms&lt;font color=&quot;#ff0000&quot;&gt;(§3.1)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1013.5" y="1490" width="156.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hF1sTlUu9HQCptNYTRcM-3" value="Modeling Collaborative UAV Scheduling&lt;font color=&quot;#ff0000&quot;&gt;(§3.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="910" y="885" width="205" height="60" as="geometry" />
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-3" value="UAV Roles&amp;nbsp;&lt;div&gt;in Large-scale&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Scheduling&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;(§3.2)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;html=1;fontSize=19;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1013.5" y="1655" width="157.5" height="115" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-4" value="Spatiotemporal Constraints&lt;font color=&quot;#ff0000&quot;&gt;(§3.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="910" y="990" width="205" height="60" as="geometry" />
+          <mxGeometry x="1014.75" y="1810" width="152.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Background and Basis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="887.5" y="720" width="250" height="30" as="geometry" />
+          <mxGeometry x="966" y="1430" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-6" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="1190" y="760" width="210" height="310" as="geometry" />
@@ -356,70 +356,100 @@
           <mxGeometry x="1202.5" y="990" width="177.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1463.75" y="760" width="236.25" height="310" as="geometry" />
+          <mxGeometry x="1250.31" y="1470" width="259.69" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-13" value="Long-Term Object-Level Monitoring&lt;font color=&quot;#ff0000&quot;&gt;(§5.1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1476.25" y="780" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1262.81" y="1490" width="237.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-14" value="Distributed Coverage Monitoring&lt;font color=&quot;#ff0000&quot;&gt;(§5.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1476.25" y="850" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1262.81" y="1560" width="237.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-15" value="Rapid Object Tracking and Interaction&lt;font color=&quot;#ff0000&quot;&gt;(§5.3)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1476.25" y="920" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1262.81" y="1630" width="237.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Scheduling&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;for Sensing&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1456.88" y="720" width="250" height="30" as="geometry" />
+          <mxGeometry x="1255.16" y="1430" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-17" value="Sensing for Emergency Response&lt;font color=&quot;#ff0000&quot;&gt;(§5.4)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1476.25" y="990" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1262.81" y="1700" width="237.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-18" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1766.87" y="760" width="263.13" height="310" as="geometry" />
+          <mxGeometry x="1553.4299999999998" y="1470" width="263.13" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-19" value="Static Coverage in Small Areas&lt;font color=&quot;#ff0000&quot;&gt;(§6.1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1779.37" y="780" width="240.63" height="60" as="geometry" />
+          <mxGeometry x="1565.9299999999998" y="1490" width="240.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-20" value="Persistent Network Deployment&lt;font color=&quot;#ff0000&quot;&gt;(§6.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1779.37" y="850" width="240.63" height="60" as="geometry" />
+          <mxGeometry x="1565.9299999999998" y="1560" width="240.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-21" value="Emergency Communication Deployment&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;(§6.3)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1779.37" y="920" width="240.63" height="60" as="geometry" />
+          <mxGeometry x="1565.9299999999998" y="1630" width="240.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Scheduling&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;for Communication&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1753.44" y="720" width="290" height="30" as="geometry" />
+          <mxGeometry x="1540" y="1430" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-23" value="Sensing for Emergency Response&lt;font color=&quot;#ff0000&quot;&gt;(§6.4)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1779.37" y="990" width="240.63" height="60" as="geometry" />
+          <mxGeometry x="1565.9299999999998" y="1700" width="240.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-24" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2076.87" y="760" width="236.25" height="310" as="geometry" />
+          <mxGeometry x="1883.75" y="1470" width="166.25" height="490" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-25" value="Public Datasets&lt;font color=&quot;#ff0000&quot;&gt;(§7.1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2089.37" y="780" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1895" y="1490" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-26" value="Open-sourced Simulator&lt;font color=&quot;#ff0000&quot;&gt;(§7.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2093.12" y="885" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1896.25" y="1657.5" width="143.75" height="115" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Opportunities &amp;amp; Future Directions&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2043.44" y="720" width="320" height="30" as="geometry" />
+          <mxGeometry x="1840" y="1430" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-28" value="Opening Questions&lt;font color=&quot;#ff0000&quot;&gt;(§7.3)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="2089.37" y="990" width="203.75" height="60" as="geometry" />
+          <mxGeometry x="1895" y="1810" width="143.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hF1sTlUu9HQCptNYTRcM-30" target="hF1sTlUu9HQCptNYTRcM-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Problems&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="941.25" y="1105" width="142.5" height="30" as="geometry" />
+          <mxGeometry x="952.5" y="2010" width="142.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hF1sTlUu9HQCptNYTRcM-32" target="hF1sTlUu9HQCptNYTRcM-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Partial Solutions&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="1105" width="210" height="30" as="geometry" />
+          <mxGeometry x="1428.44" y="2010" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hF1sTlUu9HQCptNYTRcM-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Still to be Solved&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="1105" width="186.88" height="30" as="geometry" />
+          <mxGeometry x="1913.12" y="2010" width="186.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-34" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1840" width="589" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-35" value="Optimization Goals and Metrics&lt;font color=&quot;#ff0000&quot;&gt;(§4.1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1862.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-36" value="Common Constraints&lt;font color=&quot;#ff0000&quot;&gt;(§4.2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1446.88" y="1862.5" width="173.12" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-37" value="Algorithms for Scheduling&lt;font color=&quot;#ff0000&quot;&gt;(§4.3)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1862.5" width="170" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Modeling UAV Swarm Scheduling&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1362.06" y="1810" width="346.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1345" y="1840" as="sourcePoint" />
+            <mxPoint x="1345.1550000000002" y="1780.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1715" y="1840" as="sourcePoint" />
+            <mxPoint x="1715" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hF1sTlUu9HQCptNYTRcM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hF1sTlUu9HQCptNYTRcM-22" target="hF1sTlUu9HQCptNYTRcM-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
