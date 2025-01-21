@@ -727,7 +727,7 @@
         <mxCell id="P1YjDfHs3pGfRa-XZETp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P1YjDfHs3pGfRa-XZETp-43" target="P1YjDfHs3pGfRa-XZETp-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1YjDfHs3pGfRa-XZETp-63" value="Dynamic and Coarse Communication Adaptatio&lt;font color=&quot;#ff0000&quot;&gt;(§6.4)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="P1YjDfHs3pGfRa-XZETp-63" value="Dynamic and Coarse Communication Adaptatio&lt;font color=&quot;#ff0000&quot;&gt;(§6.5)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="2950.5" y="1714" width="294" height="60" as="geometry" />
         </mxCell>
       </root>
