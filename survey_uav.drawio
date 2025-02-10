@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="lKYJNV1JYSL0fNV-0X3W">
-    <mxGraphModel dx="2015" dy="3203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="2949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -859,7 +859,7 @@
             <mxPoint x="3359" y="-1428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Challenges under Spatiotemporal Constraints&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;§6.4)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#0066CC,#EDEDED);strokeWidth=2;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Integrated Spatiotemporal Challenges&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;§6.4)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#0066CC,#EDEDED);strokeWidth=2;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="4077" y="-1641" width="291" height="93" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Real-Time&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Communication&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#0066CC,#EDEDED);strokeWidth=2;fontStyle=0" vertex="1" parent="1">
