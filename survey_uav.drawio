@@ -737,70 +737,58 @@
           <mxGeometry x="2950.5" y="1714" width="294" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-1" value="&lt;div&gt;&lt;b&gt;Real-Time Coverage Optimization&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3627.25" y="-789" width="280" height="207" as="geometry" />
+          <mxGeometry x="2902.37" y="-205" width="280" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3306" y="-558" as="sourcePoint" />
-            <mxPoint x="3896" y="-558" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Persistent (Long-Term)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3612" y="-243" width="221" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3306" y="-558" as="sourcePoint" />
-            <mxPoint x="3306" y="-1048" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Granularity&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3537.25" y="-508" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-5" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Timeliness&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3156" y="-828" width="60" height="30" as="geometry" />
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Connectivity-Centric&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3126" y="-541" width="222.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-10" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px;&quot;&gt;&lt;b&gt;Real-Time Multi-Hop Connectivity&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3327.57" y="-789" width="280" height="205" as="geometry" />
+          <mxGeometry x="2903" y="-455" width="280" height="205" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Persistent Coverage Optimization&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3627.25" y="-1018" width="280" height="205" as="geometry" />
+          <mxGeometry x="3262" y="-205" width="280" height="205" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-12" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Persistent Multi-Hop Connectivity&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3326" y="-1018" width="280" height="205" as="geometry" />
+          <mxGeometry x="3262" y="-455" width="280" height="205" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-13" value="Dynamic User Distribution" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3638.8199999999997" y="-726" width="260" height="35" as="geometry" />
+          <mxGeometry x="2913.9399999999996" y="-142" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-14" value="Latency-Sensitive Resource Allocation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3638.8199999999997" y="-681" width="260" height="35" as="geometry" />
+          <mxGeometry x="2913.9399999999996" y="-97" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-15" value="Coverage-Energy Trade-off" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3640.0699999999997" y="-635" width="260" height="35" as="geometry" />
+          <mxGeometry x="2915.1899999999996" y="-51" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-16" value="End-to-End Latency Constraints" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3337.57" y="-727" width="260" height="35" as="geometry" />
+          <mxGeometry x="2913" y="-393" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-17" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Routing Oscillation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3336.94" y="-638" width="260" height="35" as="geometry" />
+          <mxGeometry x="2912.37" y="-304" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-18" value="Long-Term Energy Balancing" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3635.37" y="-954" width="260" height="35" as="geometry" />
+          <mxGeometry x="3270.12" y="-141" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-19" value="Environmental Perturbations" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3635.37" y="-909" width="260" height="35" as="geometry" />
+          <mxGeometry x="3270.12" y="-96" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-20" value="Coverage Hole Mitigation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3636.62" y="-863" width="260" height="35" as="geometry" />
+          <mxGeometry x="3271.37" y="-50" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-21" value="Path Stability Maintenance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3337.5699999999997" y="-954" width="260" height="35" as="geometry" />
+          <mxGeometry x="3273.5699999999997" y="-391" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-22" value="Load Balancing" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3337.5699999999997" y="-909" width="260" height="35" as="geometry" />
+          <mxGeometry x="3273.5699999999997" y="-346" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-23" value="Heterogeneous Traffic Scheduling" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3338.8199999999997" y="-863" width="260" height="35" as="geometry" />
+          <mxGeometry x="3274.8199999999997" y="-300" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-24" value="Dynamic Interference Management" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="3337.57" y="-684" width="260" height="35" as="geometry" />
+          <mxGeometry x="2913" y="-350" width="260" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l9d0fQ8zo_Ozisu0wgHF-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Core Definitions&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;§6.1.1)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#0066CC,#EDEDED);strokeWidth=2;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2737" y="-1458" width="184" height="93" as="geometry" />
@@ -908,6 +896,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3833" y="-1477" as="sourcePoint" />
             <mxPoint x="4152" y="-1418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-53" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Coverage&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;-Centric&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3126" y="44" width="222.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-56" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Real-Time (Low Latency)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2598.25" y="-247.5" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2871" y="-226" as="sourcePoint" />
+            <mxPoint x="3592" y="-226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l9d0fQ8zo_Ozisu0wgHF-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3223" y="-479" as="sourcePoint" />
+            <mxPoint x="3223" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
