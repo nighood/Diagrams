@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="第 1 页" id="FqyYidsJwm87BMN0zlgQ">
+    <mxGraphModel dx="1554" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-1" value="时间要求&lt;span style=&quot;color: rgb(73, 73, 73);&quot;&gt;time_s&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-2" target="ETYFOV-SK21UBwK5ta7x-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-13" value="出发时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-12">
+          <mxGeometry x="0.1714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-2" target="ETYFOV-SK21UBwK5ta7x-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-22" value="到达时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-21">
+          <mxGeometry x="-0.1659" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-2" value="时间类型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-4" value="提醒过期" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-5" target="ETYFOV-SK21UBwK5ta7x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-8">
+          <mxGeometry x="-0.3273" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-5" value="&lt;span data-docs-delta=&quot;[[20,&amp;quot;time_s&amp;lt;cur_time&amp;quot;,&amp;quot;inline-dir:\&amp;quot;ltr\&amp;quot;&amp;quot;],[20,&amp;quot;\n&amp;quot;,&amp;quot;24:\&amp;quot;25UE\&amp;quot;|bullet-id:\&amp;quot;rTfZ\&amp;quot;|bullet:\&amp;quot;circle\&amp;quot;|direction:\&amp;quot;ltr\&amp;quot;&amp;quot;]]&quot; data-copy-origin=&quot;https://cooper.didichuxing.com&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(73, 73, 73), rgb(174, 174, 174));&quot;&gt;time_s&amp;lt;cur_time？&lt;/span&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-1" target="ETYFOV-SK21UBwK5ta7x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-5" target="ETYFOV-SK21UBwK5ta7x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-7">
+          <mxGeometry x="-0.24" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-11" value="推算预约buffer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="180" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-14" target="ETYFOV-SK21UBwK5ta7x-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-19">
+          <mxGeometry x="0.2133" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-14" value="&lt;span style=&quot;color: rgb(73, 73, 73);&quot;&gt;cur_time&amp;gt;time_s - 预约buffer?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-11" target="ETYFOV-SK21UBwK5ta7x-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-16" value="提醒预约时间过短，转实时" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-17" value="返回满足出发时间的方案" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.425;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-14" target="ETYFOV-SK21UBwK5ta7x-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-25" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-18">
+          <mxGeometry x="-0.0174" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-20" target="ETYFOV-SK21UBwK5ta7x-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-20" value="推算出发时间" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="478" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-23" target="ETYFOV-SK21UBwK5ta7x-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-29">
+          <mxGeometry x="-0.0204" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETYFOV-SK21UBwK5ta7x-23" target="ETYFOV-SK21UBwK5ta7x-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ETYFOV-SK21UBwK5ta7x-30">
+          <mxGeometry x="-0.1887" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-23" value="&lt;span style=&quot;color: rgb(73, 73, 73);&quot;&gt;cur_time&amp;gt;出发时间&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="458" y="660" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-27" value="提醒：规划时间早于当前时间不合理，请根据用户需求和系统状态时间重新进行时间推理。" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="780" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ETYFOV-SK21UBwK5ta7x-28" value="返回满足到达时间的方案" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
